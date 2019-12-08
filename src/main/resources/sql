@@ -1,0 +1,5 @@
+INSERT INTO TB_CUSTOMER (EMAIL, NAME, PHONE, STATUS)VALUES('test@email.com', 'test', '(43) 9 9999-9999', true);
+INSERT INTO TB_CUSTOMER (EMAIL, NAME, PHONE, STATUS)VALUES( 'gui@email.com', 'gui', '(11) 3333-3333', false);
+
+
+Select * from TB_CUSTOMER;VVVVVSSS
